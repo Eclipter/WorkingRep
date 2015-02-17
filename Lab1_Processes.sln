@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab1_Processes", "Lab1_Processes\Lab1_Processes.vcxproj", "{8273E774-6B1F-428B-B7C3-BD426D3A2D78}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Creator", "Creator\Creator.vcxproj", "{0E6C50E9-EC37-459F-8B85-CFFA5F49CCFD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Reporter", "Reporter\Reporter.vcxproj", "{2348DA6C-2B1A-47AE-8848-54E14AA31CF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8273E774-6B1F-428B-B7C3-BD426D3A2D78}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8273E774-6B1F-428B-B7C3-BD426D3A2D78}.Debug|Win32.Build.0 = Debug|Win32
+		{8273E774-6B1F-428B-B7C3-BD426D3A2D78}.Release|Win32.ActiveCfg = Release|Win32
+		{8273E774-6B1F-428B-B7C3-BD426D3A2D78}.Release|Win32.Build.0 = Release|Win32
+		{0E6C50E9-EC37-459F-8B85-CFFA5F49CCFD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0E6C50E9-EC37-459F-8B85-CFFA5F49CCFD}.Debug|Win32.Build.0 = Debug|Win32
+		{0E6C50E9-EC37-459F-8B85-CFFA5F49CCFD}.Release|Win32.ActiveCfg = Release|Win32
+		{0E6C50E9-EC37-459F-8B85-CFFA5F49CCFD}.Release|Win32.Build.0 = Release|Win32
+		{2348DA6C-2B1A-47AE-8848-54E14AA31CF3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2348DA6C-2B1A-47AE-8848-54E14AA31CF3}.Debug|Win32.Build.0 = Debug|Win32
+		{2348DA6C-2B1A-47AE-8848-54E14AA31CF3}.Release|Win32.ActiveCfg = Release|Win32
+		{2348DA6C-2B1A-47AE-8848-54E14AA31CF3}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+Report of file test.bin: 
+Name: name1, Amount: 2, Full Price: 2.000000
+Name: name2, Amount: 7, Full Price: 840.000000
+Name: name3, Amount: 11, Full Price: 11.000000
