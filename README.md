@@ -1,2 +1,0 @@
-# WorkingRep
-First working repository
